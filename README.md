@@ -16,7 +16,7 @@ I am an engineer with a keen interest in applied machine learning and the archit
 -->
 ## 👨‍💻 The latest about me 
 
-- 🔭 I’m learning Cognitive Science and Software Architecture/Design 
+- 🔭 I’m into Cognitive Science and Software Architecture/Design 
 - 👯 I’m looking to collaborate on projects with Python, Java, Golan and C/C++ 
 - 📫 How to reach me: [my LinkedIn profile](https://linkedin.com/in/ranamuhammadwaqas/) or email waqaskhan137@gmail.com
 
