@@ -1,12 +1,12 @@
 # Hey there, I'm Waqas
 
-I’m a software engineer pursuing an MSc in Generative AI at the University of Exeter, focused on transformers, deep learning systems, and practical AI engineering. I am particularly interested in knowledge boundaries, hallucination, and explainability in AI.
+I'm an AI engineer and engineering leader. I build and ship AI products in industry, and I research the hard problems in LLMs: hallucination, metacognition, and model architecture.
 
 ## 👨‍💻 About me
 
-- 🎓 MSc in Generative AI, University of Exeter
-- 🧠 Working on machine learning, transformers, and deep learning architectures
-- 🔍 Hands on knowledge boundaries, hallucination, and explainability in AI
-- 💻 Building with Python, Java, Go, and C/C++
+- 🧠 Focused on LLM reliability: hallucination, metacognition, and model architecture
+- 🎓 MSc in Generative AI, University of Exeter. My research asks whether language models can recognise the limits of their own knowledge
+- 🏗️ Founded and led engineering teams, architecting AI systems from voice agents to data platforms
+- 💻 Building with Python, Go, Java, and C/C++
 - 🤝 Open to collaboration on AI, backend, and systems projects
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/ranamuhammadwaqas/) or at waqaskhan137@gmail.com
